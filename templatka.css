@@ -146,5 +146,12 @@ main h1
       text-align: center;
   }
   
-
-
+.artykul
+{
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    justify-content: center;
+    text-align: center;
+    
+}
