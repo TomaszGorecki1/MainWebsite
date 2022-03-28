@@ -87,6 +87,7 @@ main h1
   
   #myBtn:hover {
     background-color: #555;
+    transition: all 1s;
   }
   .obraz
   {
